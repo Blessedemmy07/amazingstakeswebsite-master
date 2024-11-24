@@ -1,0 +1,240 @@
+@charset "UTF-8";
+
+/* Index page */
+#wrapper {
+  overflow-x: hidden;
+}
+
+#page-content-wrapper {
+  min-width: 100%;
+}
+
+/* Tips Table */
+/* .navbar {
+  border-bottom: 3px solid #E22521;
+  min-height: 70px;
+} */
+
+.sidebar-toogle-navbar,
+.inner-navbar {
+  font-size: 12px !important;
+  font-weight: bold;
+}
+
+.inner-navbar {
+  margin-top: 5px;
+  padding-top: 10px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Prediction number */
+.number-circle {
+  color: #fff;
+  text-align: center;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+
+/* league Image */
+.league-logo {
+  width: 20px;
+  height: 15px;
+}
+
+/*Scroll Menu big screen*/
+.o-hidden {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.o-hidden .nav {
+  transition: transform 0.4s;
+  transform: translateX(50%);
+  left: -50%;
+}
+
+.nav.justify-content-end {
+  transform: translateX(0);
+  left: 0;
+}
+/* End of scroll menu */
+/*back to top button */
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+  }
+  
+  @media screen and (max-width: 991px) {
+    .number-circle {
+      padding: 2px 5px;
+      border-radius: 5px;
+    }
+  }
+  
+  @media screen and (max-width: 405px) {
+    .number-circle {
+      /* padding: 5px 4px!important; */
+      /* font-size: 12px; */
+      border-radius: 5px;
+    }
+  
+    .container-mob {
+      width: 100%;
+      max-width: none;
+      margin-left: 0;
+      padding-left: 0;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .o-hidden {
+      overflow: scroll;
+      white-space: nowrap;
+      padding: 0!important;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+    }
+  
+    ::-webkit-scrollbar {
+      width: 0;
+      height: 0;
+      display: none;
+    }
+  
+    .container-mob {
+      width: 100%;
+      max-width: none;
+      margin-left: 0;
+      padding-left: 0;
+    }
+
+    .sideNavCustom, .sideNavCustom1 {
+      color: #000;
+      border: none;
+    }
+  }
+  
+  @media (max-width: 780px) {
+    .container-mob {
+      width: 100%;
+      max-width: none;
+      margin-left: 0;
+      padding-left: 0;
+    }
+  
+    .datePicker {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  
+    #datePickerId {
+      font-size: smaller;
+      color: #000;
+      border-color: #000;
+    }
+  
+    .titleNavbar {
+      font-size: 15px!important;
+    }
+
+    .sideNavCustom, .sideNavCustom1 {
+      color: white;
+      border: none;
+    }
+  }
+
+  
+  @media screen and (min-width: 992px) {
+    .sideNavCustom {
+      /* padding-left: 10px; */
+      color: #000;
+      border: none;
+    }
+
+    .sideNavCustom1 {
+      background-color: #27313a;
+      color: white;
+      border: none;
+    }
+  
+    #leagueNavClick {
+      color: white;
+    }
+  
+    #leagueNavClick:hover {
+      background-color: #E22521;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    #page-content-wrapper {
+      min-width: 0;
+      width: 100%;
+    }
+  }
+  
+  @media (max-width:400px) {
+    .card {
+      padding-bottom: 40%!important;
+    }
+  
+    .container-mob {
+      width: 100%;
+      max-width: none;
+      margin-left: 0;
+      padding-left: 0;
+    }
+  }
+  
+  @media (max-width:768px) {
+    .container-mob {
+      width: 100%;
+      max-width: none;
+      margin-left: 0;
+      padding-left: 0;
+    }  
+  }
+  
+  #titleNavBar:hover {
+    background-color: #E22521!important;
+  }
+  
+  
+  /*** Trends page Card ***/
+  .my-custom-card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .my-custom-card .card-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .my-custom-card .card-body {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 1rem;
+    flex: 1 0 auto;  
+  }
+  
+  .my-custom-card .card-footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+    height: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+  }
+  

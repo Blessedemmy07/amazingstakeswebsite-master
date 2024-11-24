@@ -1,0 +1,20 @@
+<title>Amazingstakes: Contact Us</title>
+<meta name="description" content="To better assist you, contact us by sending us an email. You can also visit our FAQs for additional information.">
+<meta name="keywords" content="best, football, prediction, accurate, super,">
+
+<meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="author" content="Amazingstakes">
+        <meta name="language" content="en">
+        <meta name="revisit-after" content="7 days">
+        <meta name="copyright" content="© 2024 Amazingstakes All rights reserved." />
+        
+        <link href="https://www.amazingstakes.com/contact-us" rel="canonical">
+        
+<!-- Open Graph Meta Tags --> 
+<meta property="og:title" content="Best Football Predictions Site Amazingstakes">
+<meta property="og:description" content="Amazingstakes offers the best and most accurate free predictions as well as the best predictions advice,  The right site is Amazingstakes.">
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:title" content="Best Football Prediction Site | Amazingstakes">
+<meta name="twitter:description" content="Amazingstakes offers the best and most accurate free predictions, The right site is Amazingstakes.">

@@ -1,0 +1,31 @@
+# Enable the rewrite engine
+RewriteEngine On
+
+# Exclude /news from main site's rewrite rules
+RewriteCond %{REQUEST_URI} ^/news
+RewriteRule ^ - [L]
+
+# Route all other requests through index.php (main site)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+
+# Restrict access to sensitive files
+<FilesMatch "(\.htaccess|config\.php|private)">
+    Require all denied
+</FilesMatch>
+
+# Caching for static files
+<FilesMatch "\.(jpg|png|jpeg|webp|css|js)$">
+    Header set Cache-Control "public, max-age=31536000"
+</FilesMatch>
+
+# Allow clean URLs without .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+)$ $1.php [NC,L]
+
+# Redirect non-www to www
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteCond %{HTTPS}s on(s)|offs()
+RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [NE,L,R]

@@ -1,0 +1,228 @@
+.button-br {
+    color: #fff !important;
+    background-color: #1a2740 !important;
+    padding: 0.375rem 0.75rem; /* Bootstrap primary button padding */
+    font-size: 1rem; /* Bootstrap default font size */
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-transform: capitalize;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent; /* Matches Bootstrap border style */
+    border-radius: 0.25rem; /* Bootstrap default border-radius */
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+        border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.button-br:hover {
+    background-color: #162030; /* Darker shade on hover, similar to Bootstrap */
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 0.2rem 0.5rem rgba(26, 39, 64, 0.2); /* Subtle shadow on hover */
+}
+
+.button-br:focus, .button-br:active {
+    background-color: #141b2d; /* Slightly darker for focus and active states */
+    color: #fff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(26, 39, 64, 0.25); /* Focus shadow effect */
+}
+
+/* Card styling */
+.card {
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Collapsible button */
+.btn-link {
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Button style for plans */
+.bet-btn-dark-expert {
+    display: block;
+    padding: 10px 20px;
+    margin: 5px 0;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* VIP Plan button */
+#vipPlan .bet-btn-dark-expert {
+    background-color: #2f3e90; /* dark blue */
+}
+
+/* Special Plan button */
+#specialPlan .bet-btn-dark-expert {
+    background-color: #1e90ff; /* blue */
+}
+
+/* Expert Plan button */
+#expertPlan .bet-btn-dark-expert {
+    background-color: #28a745; /* green */
+}
+
+/* Investment Plan button */
+#investmentPlan .bet-btn-dark-expert {
+    background-color: #b22222; /* dark red */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .row .col-md-6 {
+        margin-bottom: 20px;
+    }
+}
+
+.styledCard {
+    /* border: 1px solid black; */
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+.content-wrapper h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.account-details h5, .account-details h4 {
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+.account-details h4 strong {
+    font-weight: bold;
+}
+.account-divider {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
+.label {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.note {
+    font-size: 14px;
+    color: #555;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+
+.vip-btn ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.vip-btn ul li {
+    display: inline-block;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding: 5px 15px;
+    line-height: 40px;
+    background: #3b5998;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.vip-btn ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.vip-btn ul li a i {
+    margin-right: 5px;
+}
+
+.vip-btn ul li:hover {
+    background-color: #2d4373;
+}
+
+.inn-title h2 i {
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    color: #000;
+    padding: 6px;
+    background: #f0c419;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-top: -5px;
+}
+
+@media screen and (max-width: 480px) {
+    .inn-reg-book {
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .inn-reg-com {
+        display: block;
+        text-align: center;
+    }
+}
+.inn-reg-book {
+    background: #ffc107;
+}
+.inn-reg-com {
+    color: #000;
+    font-weight: 600;
+    border-radius: 2px;
+    padding: 4px 15px 5px 15px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 16px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .62);
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    text-transform: uppercase;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    color: #b20;
+    background-color: transparent;
+    border-color: transparent transparent #b20;
+    border-bottom: 2px solid;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+.table th {
+    font-weight: bold;
+}

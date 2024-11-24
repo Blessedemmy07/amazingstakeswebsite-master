@@ -1,0 +1,27 @@
+User-agent:*
+Disallow: /login/
+Disallow: /register/
+Disallow: /*?
+Disallow: /*?c=
+
+Sitemap: https://www.amazingstakes.com/sitemap.xml
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: bingbot
+
+
+User-agent: Googlebot-Mobile
+User-Agent: YahooSeeker/M1A1-R2D2
+User-Agent: MSNBOT_Mobil
+
+User-agent: Applebot
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Twitterbot
+Allow: /

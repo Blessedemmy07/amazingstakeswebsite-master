@@ -1,0 +1,485 @@
+
+---Downloaded files---
+The import files for: covernews were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = F:\xampp\htdocs\wordpress/wp-content/uploads/2024/11/demo-content-import-file_2024-11-17__19-50-17.xml
+Widget file = F:\xampp\htdocs\wordpress/wp-content/uploads/2024/11/demo-widgets-import-file_2024-11-17__19-50-17.json
+Customizer file = F:\xampp\htdocs\wordpress/wp-content/uploads/2024/11/demo-customizer-import-file_2024-11-17__19-50-17.dat
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 3
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 4
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 5
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 6
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 7
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 8
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 9
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 10
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 11
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 12
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 13
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 14
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 15
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 16
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 17
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 18
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 19
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 20
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 21
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 22
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 23
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 24
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 25
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 26
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 27
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 28
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 29
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 30
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 31
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 32
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 33
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 34
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 35
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 36
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 37
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 38
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 39
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 40
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 41
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 42
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 43
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 44
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 45
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 46
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 47
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 48
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 49
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 50
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 51
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 52
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 53
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 54
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 55
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 56
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 57
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 58
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 59
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 60
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 61
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 62
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 63
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 64
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 65
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 66
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 67
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+
+
+------
+Completed AJAX call number: 68
+[ERROR] Failed to import "banner-promo-1120-wu" (Media)
+[ERROR] Failed to import "af-themes main dark" (Media)
+[ERROR] Failed to import "vertical-promo-red-banner" (Media)
+

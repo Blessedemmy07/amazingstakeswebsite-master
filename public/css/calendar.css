@@ -1,0 +1,226 @@
+.heading-section {
+  font-size: 18px;
+  color: #0e0e0e; 
+}
+
+.inn-all-com p, li, span {
+  color: #0c0505;
+  margin-bottom: 0;
+}
+
+.calendar {
+  width: 300px;
+  max-width: 100%;
+  max-height: 100%;
+  font-size: 100%;
+  margin: 0 auto;
+  -webkit-perspective: 1000px;
+  perspective: 1000px;
+  cursor: pointer;
+  position: relative; 
+  border: 1px solid rgba(211, 209, 209, 0.089);
+}
+
+.calendar .header {
+  /* width: 263px; */
+  width: 100%;
+  height: 50px;
+  position: relative;
+  color: black;
+  font-weight: bold;
+}
+
+.calendar .header .text {
+  position: absolute;
+  font-size: small;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.2);     
+}
+
+.calendar .header .text > span {
+  text-align: center;
+  padding: 15px;
+  display: block;
+  text-transform: uppercase;
+  font-weight: 600; 
+}
+
+.calendar .header.active .text {
+  -webkit-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+  opacity: 1; 
+}
+
+.months {
+  height: 240px;
+  position: relative; 
+}
+
+.months .hr {
+  height: 1px;
+  /* margin: 15px 0; */
+  background: #ccc; 
+}
+
+.month {
+  padding: 10px;
+  max-width: 100%;
+  max-height: 100%;
+  background: #fff;
+  position: absolute;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: all .4s ease-in-out 0s;
+  -o-transition: all .4s ease-in-out 0s;
+  transition: all .4s ease-in-out 0s;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.2);  
+}
+
+.months[data-flow="left"] .month {
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg); 
+}
+
+.months[data-flow="right"] .month {
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg); 
+}
+
+.table {
+  width: 100%;
+  font-size: 13px;
+  font-weight: 500;
+  display: table; 
+}
+
+.table .row {
+  display: table-row; 
+}
+
+.table .row.head {
+  color: #000;
+  text-transform: uppercase; 
+}
+
+.table .row .cell {
+  width: 12.28%;
+  padding: 3px;
+  text-align: center;
+  display: table-cell; }
+  .table .row .cell.disable {
+    color: #ccc; 
+}
+
+.table .row .cell span {
+  display: block;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  -webkit-transition: color,background .4s ease-in-out 0s;
+  -o-transition: color,background .4s ease-in-out 0s;
+  transition: color,background .4s ease-in-out 0s; 
+}
+
+.table .row .cell.active span {
+  color: #fff;
+  padding: 1px;
+  background-color: #eb4d68;
+  border-radius: 4px; 
+}
+
+.months .month[data-active="true"] {
+  -webkit-transform: rotateY(0);
+  transform: rotateY(0); 
+}
+
+.header [data-action] {
+  color: inherit;
+  position: absolute;
+  top: 50%;
+  margin-top: -20px;
+  width: 20px;
+  height: 40px;
+  z-index: 1;
+  opacity: 0;
+  -webkit-transition: all .4s ease-in-out 0s;
+  -o-transition: all .4s ease-in-out 0s;
+  transition: all .4s ease-in-out 0s; 
+}
+
+.header [data-action] > i {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -10px;
+  margin-left: -10px; 
+}
+
+.header [data-action] > i:before, .header [data-action] > i:after {
+  top: 50%;
+  margin-top: -1px;
+  content: '';
+  position: absolute;
+  height: 2px;
+  width: 20px;
+  border-top: 2px solid;
+  border-radius: 2px; 
+}
+
+.header [data-action*="prev"] {
+  left: 15px; 
+}
+
+.header [data-action*="prev"] > i:before, .header [data-action*="prev"] > i:after {
+  left: 0; 
+}
+
+.header [data-action*="prev"] > i:before {
+  top: 3px;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg); 
+}
+
+.header [data-action*="prev"] > i:after {
+  top: auto;
+  bottom: 3px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg); 
+}
+
+.header [data-action*="next"] {
+  right: 15px; 
+}
+
+.header [data-action*="next"] > i:before, .header [data-action*="next"] > i:after {
+  right: 0; 
+}
+
+.header [data-action*="next"] > i:before {
+  top: auto;
+  bottom: 3px;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg); 
+}
+
+.header [data-action*="next"] > i:after {
+  top: 3px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg); 
+}
+
+.header.active [data-action] {
+  opacity: 1; 
+}
