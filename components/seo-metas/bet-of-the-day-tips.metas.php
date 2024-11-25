@@ -13,7 +13,7 @@
         
 <!-- Open Graph Meta Tags --> 
 <meta property="og:title" content="Today Winmore Prediction | Mybet Today">
-<meta property="og:description" content="Mybets today, It’s our most confident bet from the day’s football fixtures, chosen by our expert tipsters on amazingstakes to win more prediction.">
+<meta property="og:description" content="Mybets today, It’s our most confident bet from the day’s  chosen by our expert tipsters on amazingstakes to win more prediction.">
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:title" content="Today Winmore Prediction | Mybet Today">
