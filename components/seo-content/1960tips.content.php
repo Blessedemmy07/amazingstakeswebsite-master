@@ -4,7 +4,7 @@
             <ul>                
                 <<li>
                 <li>
-                            <h4>FOOTBALL PREDICTION SITE</h4>
+                            <h4>BEST FOOTBALL PREDICTION SITE</h4>
                             <p>Looking for 1960 tips and prediction's for today. You've come to the right place!</p>
                             <p>We give you our top predictions on the outcomes of football matches. </p>
                         <p>Amazingstakes is the most accurate prediction website. For every football matches, we provide Free Football Predictions to both daily visitors and our regular users. Football bettors and gamblers can win more games with AmazingStakes. We provide trustworthy football predictions for free in an effort to help visitors win their bets. We also provide up-to-date, accurate football news from match reports to keep you informed. Therefore, if you're looking for a reliable, excellent, greatest, and accurate football prediction website, Amazingstakes.com is the best prediction site in the globe.</p>
